@@ -1,0 +1,313 @@
+### System ###
+amd-ucode
+base
+bash-completion
+b43-fwcutter
+efibootmgr
+grub
+grub-btrfs
+intel-ucode
+linux
+linux-firmware
+linux-headers
+mkinitcpio
+mkinitcpio-archiso
+os-prober
+syslinux
+### System tools ###
+accountsservice
+acpi
+acpid
+avahi
+base-devel
+bcachefs-tools
+brltty
+broadcom-wl
+bind
+bolt
+btrfs-progs
+clonezilla
+cloud-init
+cpupower
+cryptsetup
+ddrescue
+device-mapper
+dmraid
+diffutils
+dmidecode
+dnsmasq
+dosfstools
+e2fsprogs
+ecryptfs-utils
+edk2-shell
+espeakup
+ethtool
+exfatprogs
+f2fs-tools
+fatresize
+fsarchiver
+git
+git-lfs
+glibc-locales
+gsmartcontrol
+gpart
+gpm
+hyperv
+jfsutils
+ldns
+less
+libdvdcss
+libgsf
+libopenraw
+libusb-compat
+logrotate
+lsof
+lsscsi
+lvm2
+man-db
+man-pages
+memtest86+
+memtest86+-efi
+mtools
+mtpfs
+nfs-utils
+nilfs-utils
+ntfs-3g
+nvme-cli
+open-iscsi
+openpgp-card-tools
+pacman-contrib
+partclone
+parted
+partimage
+pcsclite
+perl
+perl-file-mimeinfo
+poppler-glib
+ppp
+pptpclient
+refind
+reflector
+rtkit
+screen
+sdparm
+sg3_utils
+smartmontools
+sudo
+squashfs-tools
+sysfsutils
+tcpdump
+testdisk
+tmux
+tpm2-tools
+tpm2-tss
+udftools
+udiskie
+udisks2
+usb_modeswitch
+usbmuxd
+usbutils
+xfsprogs
+wvdial
+### Network tools ###
+inetutils
+iw
+iwd
+ndisc6
+net-tools
+network-manager-applet
+networkmanager
+networkmanager-openconnect
+networkmanager-openvpn
+nss-mdns
+openconnect
+openssh
+openvpn
+wireless-regdb
+### Graphics drivers ###
+#lib32-libva-intel-driver
+lib32-mesa
+lib32-mesa-utils
+#lib32-vulkan-intel
+#lib32-vulkan-nouveau
+lib32-vulkan-radeon
+#libva-intel-driver
+mesa-utils
+#vulkan-intel
+#vulkan-nouveau
+vulkan-radeon
+xf86-video-amdgpu
+xf86-video-ati
+#xf86-video-intel
+#xf86-video-nouveau
+### Input drivers ###
+numlockx
+#xf86-input-elographics
+#xf86-input-evdev
+xf86-input-libinput
+#xf86-input-void
+### Audio drivers ###
+alsa-firmware
+alsa-plugins
+alsa-utils
+pavucontrol
+pipewire
+pipewire-alsa
+pipewire-audio
+pipewire-jack
+pipewire-pulse
+sof-firmware
+wireplumber
+### Console apps ###
+7zip
+android-tools
+android-udev
+curl
+gptfdisk
+hdparm
+htop
+inxi
+mc
+mmc-utils
+nano
+nano-syntax-highlighting
+open-vm-tools
+plocate
+powertop
+pv
+rsync
+unace
+unrar
+vi
+vim
+wget
+which
+zsh
+zsh-autosuggestions
+zsh-completions
+zsh-history-substring-search
+zsh-syntax-highlighting
+### Desktop portal ###
+xdg-desktop-portal-gtk
+xdg-user-dirs
+xdg-utils
+xiccd
+### Blooetoth ###
+blueman
+bluez
+bluez-deprecated-tools
+bluez-utils
+### Printer ###
+cups
+cups-pdf
+### Fonts ###
+adobe-source-sans-fonts
+freetype2
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
+noto-fonts-extra
+terminus-font
+ttf-bitstream-vera
+ttf-dejavu
+ttf-liberation
+ttf-meslo-nerd
+ttf-opensans
+### Xorg ###
+xorg-mkfontscale
+xorg-server
+xorg-twm
+xorg-xdpyinfo
+xorg-xinit
+xorg-xinput
+xorg-xkill
+xorg-xrandr
+### Multimedia tools ###
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+### File manager ###
+gvfs
+gvfs-afc
+gvfs-gphoto2
+gvfs-mtp
+gvfs-smb
+tumbler
+### Themes ###
+gnome-themes-extra
+papirus-icon-theme
+### Desktop apps ###
+engrampa
+evince
+ffmpeg
+ffmpegthumbnailer
+firefox
+gparted
+jre-openjdk
+meld
+mugshot
+virtualbox-guest-utils
+qemu-guest-agent
+### Xfce4 ###
+exo
+garcon
+libwnck3
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+mousepad
+thunar
+thunar-archive-plugin
+thunar-media-tags-plugin
+thunar-volman
+xfce4-appfinder
+xfce4-battery-plugin
+xfce4-clipman-plugin
+xfce4-cpugraph-plugin
+xfce4-notifyd
+xfce4-panel
+xfce4-power-manager
+xfce4-pulseaudio-plugin
+xfce4-screensaver
+xfce4-screenshooter
+xfce4-sensors-plugin
+xfce4-session
+xfce4-settings
+xfce4-taskmanager
+xfce4-terminal
+xfce4-whiskermenu-plugin
+xfce4-xkb-plugin
+xfconf
+xfdesktop
+xfsprogs
+xfwm4
+xfwm4-themes
+### custom repo ###
+libpamac-aur
+pamac-aur
+zsh-theme-powerlevel10k
+yay
+matcha-gtk-theme
+localsend-bin
+### Calamares packages ###
+# ckbcomp
+calamares-git
+# boost-libs
+# hwinfo
+# kconfig
+kcoreaddons
+# ki18n
+# kiconthemes
+kpmcore
+libpwquality
+# polkit-qt6
+# python
+# python-jsonschema
+# python-yaml
+qt6-declarative
+qt6-svg
+# solid
+squashfs-tools
+yaml-cpp

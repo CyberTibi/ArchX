@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Set XFCE Wallpaper First Boot
+Exec=/usr/local/os-scripts/set-wallpaper-once.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true

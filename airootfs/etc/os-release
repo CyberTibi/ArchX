@@ -1,0 +1,11 @@
+NAME="ArchX Linux"
+PRETTY_NAME="ArchX Linux"
+ID=archx
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/CyberTibi/ArchX"
+DOCUMENTATION_URL="https://github.com/CyberTibi/ArchX/wiki"
+SUPPORT_URL="https://github.com/CyberTibi/ArchX/issues"
+BUG_REPORT_URL="https://github.com/CyberTibi/ArchX/issues"
+PRIVACY_POLICY_URL="https://github.com/CyberTibi/ArchX/security"
+LOGO=archlinux-logo

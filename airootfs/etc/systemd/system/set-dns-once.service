@@ -1,0 +1,11 @@
+[Unit]
+Description=Once DNS setting actíve Ethernet and Wifi connections
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/os-scripts/set-dns-once.sh
+
+[Install]
+WantedBy=multi-user.target
