@@ -47,27 +47,27 @@ openssh
 openvpn
 wireless-regdb
 ### Graphics drivers ###
-#lib32-libva-intel-driver
+lib32-libva-intel-driver
 lib32-mesa
 lib32-mesa-utils
-#lib32-vulkan-intel
-#lib32-vulkan-nouveau
+lib32-vulkan-intel
+lib32-vulkan-nouveau
 lib32-vulkan-radeon
-#libva-intel-driver
+libva-intel-driver
 mesa-utils
-#vulkan-intel
-#vulkan-nouveau
+vulkan-intel
+vulkan-nouveau
 vulkan-radeon
 xf86-video-amdgpu
 xf86-video-ati
-#xf86-video-intel
-#xf86-video-nouveau
+xf86-video-intel
+xf86-video-nouveau
 ### Input drivers ###
 numlockx
-#xf86-input-elographics
-#xf86-input-evdev
+xf86-input-elographics
+xf86-input-evdev
 xf86-input-libinput
-#xf86-input-void
+xf86-input-void
 ### Audio drivers ###
 alsa-firmware
 alsa-plugins
@@ -158,6 +158,7 @@ gparted
 jre-openjdk
 meld
 mugshot
+qemu-guest-agent
 virtualbox-guest-utils
 ### Xfce4 ###
 exo
@@ -200,22 +201,11 @@ yay
 matcha-gtk-theme
 localsend-bin
 ### Calamares packages ###
-# ckbcomp
 calamares-git
-# boost-libs
-# hwinfo
-# kconfig
 kcoreaddons
-# ki18n
-# kiconthemes
 kpmcore
 libpwquality
-# polkit-qt6
-# python
-# python-jsonschema
-# python-yaml
 qt6-declarative
 qt6-svg
-# solid
 squashfs-tools
 yaml-cpp
