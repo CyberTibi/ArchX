@@ -7,21 +7,22 @@ Its goal is to deliver the flexibility of Arch Linux in a user-friendly way, wit
 
 - Arch Linux base with rolling release updates  
 - User-friendly **Xfce4** desktop environment  
-- Calamares installer with AnswerOS custom slideshow  
+- Calamares installer with ArchX custom slideshow  
 - Minimalist, modern visual design  
 - Minimal set of preinstalled applications, allowing users to customize their system freely  
 - Open source, community-driven development  
 
 ## Preinstalled Applications
 
-- **Thunar** file manager  
+- **Thunar** - file manager  
 - **xfce4-terminal** with Zsh + Powerlevel10k theme  
-- **Firefox** web browser  
-- **Evince** document viewer  
+- **Firefox** - web browser  
+- **Evince** - document viewer  
 - **LocalSend** – file transfer over local network  
 - **Meld** – file comparison tool  
-- **Pamac** software manager  
-- **NetworkManager + iwd + dnsmasq** for network management  
+- **GParted** – partitioning and disk management tool  
+- **Pamac** - software manager  
+- **NetworkManager + iwd + dnsmasq** - for network management  
 - Bluetooth support  
 - Printer support  
 
