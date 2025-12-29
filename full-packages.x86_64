@@ -292,22 +292,11 @@ yay
 matcha-gtk-theme
 localsend-bin
 ### Calamares packages ###
-# ckbcomp
 calamares-git
-# boost-libs
-# hwinfo
-# kconfig
 kcoreaddons
-# ki18n
-# kiconthemes
 kpmcore
 libpwquality
-# polkit-qt6
-# python
-# python-jsonschema
-# python-yaml
 qt6-declarative
 qt6-svg
-# solid
 squashfs-tools
 yaml-cpp

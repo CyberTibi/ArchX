@@ -4,6 +4,7 @@ base
 bash-completion
 efibootmgr
 grub
+grub-btrfs
 intel-ucode
 linux
 linux-firmware
@@ -15,22 +16,35 @@ syslinux
 ### System tools ###
 base-devel
 bind
+btrfs-progs
 dnsmasq
 dosfstools
 git
 git-lfs
+glibc-locales
 less
+libdvdcss
+libgsf
+libopenraw
+libusb-compat
+lvm2
 man-db
 man-pages
 memtest86+
 memtest86+-efi
 mtools
+nfs-utils
 ntfs-3g
 pacman-contrib
+perl
+perl-file-mimeinfo
 reflector
 rtkit
 sudo
 squashfs-tools
+usb_modeswitch
+usbmuxd
+usbutils
 ### Network tools ###
 inetutils
 iw
@@ -156,8 +170,8 @@ ffmpegthumbnailer
 firefox
 gparted
 jre-openjdk
-meld
 mugshot
+open-vm-tools
 qemu-guest-agent
 virtualbox-guest-utils
 ### Xfce4 ###
@@ -199,7 +213,6 @@ pamac-aur
 zsh-theme-powerlevel10k
 yay
 matcha-gtk-theme
-localsend-bin
 ### Calamares packages ###
 calamares-git
 kcoreaddons
